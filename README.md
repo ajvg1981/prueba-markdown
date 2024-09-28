@@ -6,10 +6,12 @@ Este informe presenta un análisis detallado de las ventas de la empresa durante
 ## Sección 1: Resumen de Ventas
 A continuación, se muestra un resumen de las ventas por trimestre:
 
-- Primer Trimestre: $150,000
-- Segundo Trimestre: $200,000
-- Tercer Trimestre: $250,000
-- Cuarto Trimestre: $300,000
+| Trimestre         | Ingresos | Gráfico de Barras         |
+|-------------------|----------|----------------------------|
+| Primer Trimestre  | $150,000 | ██████████████            |
+| Segundo Trimestre | $200,000 | █████████████████████     |
+| Tercer Trimestre  | $250,000 | ███████████████████████████|
+| Cuarto Trimestre  | $300,000 | ███████████████████████████████|
 
 ## Sección 2: Gráfico de Ventas
 Aquí se presenta un gráfico que ilustra el crecimiento de las ventas a lo largo del año:
